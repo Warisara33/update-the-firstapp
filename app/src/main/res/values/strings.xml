@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Firistapp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Name">Warisara Satsue</string>
+    <string name="Name1">61162110353-9</string>
+    <string name="Name2">Warisara Satsue</string>
+    <string name="Name3">Abounme</string>
+    <string name="Name4">I’m Warisara Satsue
+        \n\nnickname Bee
+        \n\nBirthday 16/04/2543
+    </string>
+    <string name="Name5">Facebook Warisara Bee
+        \n\nInstagram Warisara.be
+        \n\n0928169606
+    </string>
+</resources>
