@@ -22,4 +22,9 @@
         android:name="com.example.firistapp.ui.slideshow.SlideshowFragment"
         android:label="Contact"
         tools:layout="@layout/fragment_contact" />
+    <fragment
+        android:id="@+id/nav_AddContact"
+        android:name="com.example.firistapp.ui.addcontact.AddContactFragment"
+        android:label="fragment_add_contact"
+        tools:layout="@layout/fragment_add_contact" />
 </navigation>

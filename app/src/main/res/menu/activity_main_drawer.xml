@@ -12,5 +12,9 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/planet"
             android:title="Contact" />
+        <item
+            android:id="@+id/nav_AddContact"
+            android:icon="@drawable/planet"
+            android:title="AddContact" />
     </group>
 </menu>
