@@ -32,6 +32,7 @@
             app:layout_constraintTop_toTopOf="parent">
 
             <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/warisara"
                 android:layout_width="216dp"
                 android:layout_height="55dp" />
         </com.google.android.material.textfield.TextInputLayout>

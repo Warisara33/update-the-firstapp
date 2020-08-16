@@ -23,6 +23,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.text.TextUtils
 import android.widget.Button
 import android.widget.EditText
+import com.example.firistapp.R
 
 /**
  * Activity for entering a word.
@@ -35,9 +36,9 @@ class NewWordActivity : AppCompatActivity() {
     public override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_new_word)
-        editWordView = findViewById(R.id.edit_word)
+        editWordView = findViewById(R.id.warisara)
 
-        val button = findViewById<Button>(R.id.button_save)
+        val button = findViewById<Button>(R.id.button)
         button.setOnClickListener {
             val replyIntent = Intent()
             if (TextUtils.isEmpty(editWordView.text)) {
